@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|d:\\2300003_nguyenleanhtuan\\baitap2\\baitapthietkeform\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE518C73-00DE-4EB4-8876-A5FE43813BA2}|BaiTapThietKeform\\BaiTapThietKeform.csproj|solutionrelative:baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBai4.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmBai4.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai4.cs",
+              "RelativeToolTip": "BaiTapThietKeform\\frmBai4.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:12:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBai4.cs [Design]",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmBai4.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai4.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeform\\frmBai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:05:01.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmBai3.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai3.cs",
+              "RelativeToolTip": "BaiTapThietKeform\\frmBai3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:41:58.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmChinh.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.cs",
+              "RelativeToolTip": "BaiTapThietKeform\\frmChinh.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:33:58.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChinh.Designer.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmChinh.Designer.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.Designer.cs",
+              "RelativeToolTip": "BaiTapThietKeform\\frmChinh.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:33:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmBai3.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmBai3.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeform\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:33:15.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeform\\frmChinh.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan\\BaiTap2\\BaiTapThietKeform\\BaiTapThietKeform\\frmChinh.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeform\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:21:09.281Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

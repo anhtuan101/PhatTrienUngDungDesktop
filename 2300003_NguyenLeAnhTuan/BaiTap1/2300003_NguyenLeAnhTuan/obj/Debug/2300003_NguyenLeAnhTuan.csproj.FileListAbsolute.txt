@@ -1,0 +1,11 @@
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\bin\Debug\2300003_NguyenLeAnhTuan.exe.config
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\bin\Debug\2300003_NguyenLeAnhTuan.exe
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\bin\Debug\2300003_NguyenLeAnhTuan.pdb
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.csproj.AssemblyReference.cache
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\_2300003_NguyenLeAnhTuan.MainForm.resources
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\_2300003_NguyenLeAnhTuan.Properties.Resources.resources
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.csproj.GenerateResource.cache
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.csproj.CoreCompileInputs.cache
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.exe
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.pdb
+D:\2300003_NguyenLeAnhTuan\2300003_NguyenLeAnhTuan\obj\Debug\2300003_NguyenLeAnhTuan.exe.config

@@ -1,0 +1,136 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": 1230045,
+      "ho": "Nguyen",
+      "ten": "A",
+      "gioitinh": "nam",
+      "ngaysinh": "2000-01-01T00:00:00",
+      "lop": "A1",
+      "CMND": "123456789",
+      "SDT": "0987654321",
+      "DiaChi": "Hanoi"
+    },
+    {
+      "MSSV": 6789000,
+      "ho": "Tran",
+      "ten": "B",
+      "gioitinh": "nu",
+      "ngaysinh": "2001-02-02T00:00:00",
+      "lop": "B1",
+      "CMND": "987654321",
+      "SDT": "1234567890",
+      "DiaChi": "HCM"
+    },
+    {
+      "MSSV": 6789000,
+      "ho": "Tran",
+      "ten": "B",
+      "gioitinh": "nu",
+      "ngaysinh": "2001-02-02T00:00:00",
+      "lop": "B1",
+      "CMND": "987654321",
+      "SDT": "1234567890",
+      "DiaChi": "HCM"
+    },
+    {
+      "MSSV": 6789001,
+      "ho": "Nguyen",
+      "ten": "A",
+      "gioitinh": "nam",
+      "ngaysinh": "2000-01-15T00:00:00",
+      "lop": "B1",
+      "CMND": "123456789",
+      "SDT": "0987654321",
+      "DiaChi": "Hanoi"
+    },
+    {
+      "MSSV": 6789002,
+      "ho": "Le",
+      "ten": "C",
+      "gioitinh": "nu",
+      "ngaysinh": "2002-03-20T00:00:00",
+      "lop": "B2",
+      "CMND": "234567890",
+      "SDT": "9876543210",
+      "DiaChi": "Danang"
+    },
+    {
+      "MSSV": 6789003,
+      "ho": "Pham",
+      "ten": "D",
+      "gioitinh": "nam",
+      "ngaysinh": "2001-05-10T00:00:00",
+      "lop": "B2",
+      "CMND": "345678901",
+      "SDT": "0123456789",
+      "DiaChi": "Hue"
+    },
+    {
+      "MSSV": 6789004,
+      "ho": "Hoang",
+      "ten": "E",
+      "gioitinh": "nu",
+      "ngaysinh": "2000-08-25T00:00:00",
+      "lop": "B3",
+      "CMND": "456789012",
+      "SDT": "1234098765",
+      "DiaChi": "HCM"
+    },
+    {
+      "MSSV": 6789005,
+      "ho": "Vu",
+      "ten": "F",
+      "gioitinh": "nam",
+      "ngaysinh": "2001-07-30T00:00:00",
+      "lop": "B3",
+      "CMND": "567890123",
+      "SDT": "2345098765",
+      "DiaChi": "Hai Phong"
+    },
+    {
+      "MSSV": 6789006,
+      "ho": "Dang",
+      "ten": "G",
+      "gioitinh": "nu",
+      "ngaysinh": "2000-11-18T00:00:00",
+      "lop": "B4",
+      "CMND": "678901234",
+      "SDT": "3456098765",
+      "DiaChi": "Can Tho"
+    },
+    {
+      "MSSV": 6789007,
+      "ho": "Trinh",
+      "ten": "H",
+      "gioitinh": "nam",
+      "ngaysinh": "2001-04-05T00:00:00",
+      "lop": "B4",
+      "CMND": "789012345",
+      "SDT": "4567098765",
+      "DiaChi": "Quang Ngai"
+    },
+    {
+      "MSSV": 6789008,
+      "ho": "Bui",
+      "ten": "I",
+      "gioitinh": "nu",
+      "ngaysinh": "2002-06-22T00:00:00",
+      "lop": "B5",
+      "CMND": "890123456",
+      "SDT": "5678098765",
+      "DiaChi": "Phan Thiet"
+    },
+    {
+      "MSSV": 6789009,
+      "ho": "Dao",
+      "ten": "J",
+      "gioitinh": "nam",
+      "ngaysinh": "2000-12-12T00:00:00",
+      "lop": "B5",
+      "CMND": "901234567",
+      "SDT": "6789012345",
+      "DiaChi": "Nha Trang"
+    }
+  ]
+}

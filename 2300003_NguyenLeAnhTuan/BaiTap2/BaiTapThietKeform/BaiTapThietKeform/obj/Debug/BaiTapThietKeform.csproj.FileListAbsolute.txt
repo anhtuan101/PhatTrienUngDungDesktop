@@ -1,0 +1,15 @@
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.csproj.AssemblyReference.cache
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.frmBai1.resources
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.frmChinh.resources
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.Properties.Resources.resources
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.csproj.GenerateResource.cache
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.csproj.CoreCompileInputs.cache
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\bin\Debug\BaiTapThietKeform.exe.config
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\bin\Debug\BaiTapThietKeform.exe
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\bin\Debug\BaiTapThietKeform.pdb
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.exe
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.pdb
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.exe.config
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.frmBai2.resources
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.frmBai3.resources
+D:\2300003_NguyenLeAnhTuan\BaiTap2\BaiTapThietKeform\BaiTapThietKeform\obj\Debug\BaiTapThietKeform.frmBai4.resources
