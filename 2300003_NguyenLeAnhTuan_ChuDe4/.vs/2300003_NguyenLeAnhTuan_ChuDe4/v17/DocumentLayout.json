@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|d:\\phat_trien_ung_dung_desktop\\2300003_nguyenleanhtuan_chude4\\2300003_nguyenleanhtuan_chude4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_nguyenleanhtuan_chude4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_nguyenleanhtuan_chude4\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_nguyenleanhtuan_chude4\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_nguyenleanhtuan_chude4\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_nguyenleanhtuan_chude4\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A46000E-7274-43D2-912C-D6DFE154A870}|2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4.csproj|solutionrelative:2300003_nguyenleanhtuan_chude4\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "RelativeToolTip": "2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwCoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:02:14.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:02:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodForm.cs [Design]",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:52:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "RelativeToolTip": "2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwJ8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:45:33.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\2300003_NguyenLeAnhTuan_ChuDe4_DaSua\\2300003_NguyenLeAnhTuan_ChuDe4\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:45:31.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodForm.cs",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "RelativeDocumentMoniker": "2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe4\\2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "RelativeToolTip": "2300003_NguyenLeAnhTuan_ChuDe4\\FoodForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwKcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:30:11.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\2300003_NguyenLeAnhTuan_ChuDe6\\restaurantmanagementproject\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\2300003_nguyenleanhtuan_chude6\\restaurantmanagementproject\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\2300003_nguyenleanhtuan_chude6\\restaurantmanagementproject\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B9257-CB11-4BDE-865D-C3981175427D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D71185-538B-4551-96EB-3B1630B07226}|BusinessLogic\\BusinessLogic.csproj|D:\\2300003_NguyenLeAnhTuan_ChuDe6\\businesslogic\\authbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D71185-538B-4551-96EB-3B1630B07226}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\authbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAdmin.Designer.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAdmin.Designer.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAgwLgBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:47:50.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthBL.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\BusinessLogic\\AuthBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AuthBL.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\BusinessLogic\\AuthBL.cs",
+              "RelativeToolTip": "BusinessLogic\\AuthBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:51:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAdmin.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:49:25.197Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAdmin.cs",
+              "ToolTip": "D:\\2300003_NguyenLeAnhTuan_ChuDe6\\RestaurantManagementProject\\frmAdmin.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAdmin.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAqwLgBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:54:22.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

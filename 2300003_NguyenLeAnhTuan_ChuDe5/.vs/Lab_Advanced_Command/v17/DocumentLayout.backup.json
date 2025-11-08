@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|d:\\phat_trien_ung_dung_desktop\\2300003_nguyenleanhtuan_chude5\\lab_advanced_command\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|solutionrelative:lab_advanced_command\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\lab_advanced_command\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|solutionrelative:lab_advanced_command\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\lab_advanced_command\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32045671-7AC2-4B31-A379-9B73B59BBF8C}|Lab_Advanced_Command\\Lab_Advanced_Command.csproj|solutionrelative:lab_advanced_command\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 622,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\Lab_Advanced_Command\\AddAccount.cs",
+              "RelativeDocumentMoniker": "Lab_Advanced_Command\\AddAccount.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\Lab_Advanced_Command\\Lab_Advanced_Command\\AddAccount.cs [Design]",
+              "RelativeToolTip": "..\\Lab_Advanced_Command\\Lab_Advanced_Command\\AddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:10:07.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\Lab_Advanced_Command\\AccountForm.cs",
+              "RelativeDocumentMoniker": "Lab_Advanced_Command\\AccountForm.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\Lab_Advanced_Command\\AccountForm.cs",
+              "RelativeToolTip": "Lab_Advanced_Command\\AccountForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:09:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAccount.cs",
+              "DocumentMoniker": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\Lab_Advanced_Command\\AddAccount.cs",
+              "RelativeDocumentMoniker": "Lab_Advanced_Command\\AddAccount.cs",
+              "ToolTip": "D:\\Phat_Trien_Ung_Dung_Desktop\\2300003_NguyenLeAnhTuan_ChuDe5\\Lab_Advanced_Command\\AddAccount.cs",
+              "RelativeToolTip": "Lab_Advanced_Command\\AddAccount.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:10:08.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
